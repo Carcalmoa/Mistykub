@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="separator_width">76</dimen>
+    <dimen name="separator_height">159</dimen>
+
+</resources>

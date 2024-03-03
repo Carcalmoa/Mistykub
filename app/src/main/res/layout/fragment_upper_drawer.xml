@@ -1,0 +1,21 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tilesContainer"
+    android:layout_width="match_parent"
+    android:layout_height="45dp"
+    android:orientation="vertical"
+    android:background="?attr/colorPrimary">
+
+    <!-- Handle at the top -->
+    <GridLayout
+        android:id="@+id/combinationGrid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:columnCount="100"
+        android:rowCount="100"
+        android:orientation="horizontal">
+
+    </GridLayout>
+
+
+</LinearLayout>
