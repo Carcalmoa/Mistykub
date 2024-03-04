@@ -6,3 +6,4 @@ It was programmed in Android Studio, in Java language.
 - [https://github.com/Carcalmoa](https://github.com/Carcalmoa)
 - [https://github.com/naoufal21](https://github.com/naoufal21)
 
+![image](https://github.com/henarmarino/Mistykub/assets/118133979/070d63a3-963c-4012-97c6-816089ffd063)
